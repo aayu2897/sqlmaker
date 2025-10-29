@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: Inter, "Segoe UI", Roboto, -apple-system, "Helvetica Neue", Arial;
+  background: linear-gradient(135deg,#05070a 0%,#071329 100%);
+  color: #e6eef8;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
